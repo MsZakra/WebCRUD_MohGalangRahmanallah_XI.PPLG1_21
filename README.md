@@ -75,7 +75,7 @@ $mysqli = new mysqli("localhost", "root", "", "db_todolist");
 
 Jalankan di browser:
 
-http://localhost/mytask/
+http://localhost/project/
 
 📸 Screenshot (Opsional)
 
