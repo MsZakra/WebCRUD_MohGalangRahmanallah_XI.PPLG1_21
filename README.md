@@ -59,7 +59,7 @@ XAMPP / LAMPP (Local Development)
 
 Clone repository:
 
-git clone https://github.com/MsZakra/mytask.git
+git clone https://github.com/MsZakra/WebCRUD_MohGalangRahmanallah_XI.PPLG1_21
 
 
 Import database:
